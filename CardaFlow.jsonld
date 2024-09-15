@@ -55,14 +55,14 @@
   "body": {
     "doNotList": false,
     "givenName": "CardaFlow",
-    "motivations": "When I started stepping in crypto world late 2020, I did quite extensive due diligence on various L1s chain and got progressively convinced that Cardano had, not only the best and most thoughtful design, but equally some of most important core values to me...\nI am not a whale, I am not a techy neither. I am not engaging as a Drep to promote easy & fast money making. I am here, skin in the game, to defend what made me to choose and invest exclusively in Cardano blochchain from the beginning.",
-    "objectives": "- Self Guard Decentralization\n- Mass adoption\n- Financial inclusion\n\nPlease not that exponential price increase is not an objective to me (even if it might be a consequence ;))",
+    "motivations": "When I started stepping in crypto world late 2020, I did quite extensive due diligence on various L1s chain and progressively got the conviction that Cardano had, not only the best and most thoughtful design, but equally some of most important core values to me...\nI am not a whale, I am not techy neither. I am not engaging as a Drep to promote easy & fast money making. \nI am here, skin in the game, to defend what made me to choose and invest exclusively in Cardano blockchain from the beginning.",
+    "objectives": "In that order\n- Maintain Decentralization\n- Promote Mass adoption\n- Favor Financial inclusion\nPlease note that exponential price increase is not an objective to me (even if it might be a consequence ;))",
     "paymentAddress": "addr1q8vcrh0khns8r3jzd2lrvnlcda7tl86dvfykahtgrudx8n8qmauyrf4dw08zvgr8u2rgpqp35zqpmlx4da8phjn2d0nskselw8",
-    "qualifications": "- PhD in life sciences\n- Knowledgeable in finance\n- Good understanding of Cardano tokenomics",
+    "qualifications": "- PhD in life sciences\n- Knowledge in finance\n- Good understanding of Cardano tokenomics",
     "references": [
       {
         "@type": "Link",
-        "label": "X's profile",
+        "label": "X's Profile",
         "uri": "https://x.com/Carda_Flow"
       },
       {
